@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\id140\source\repos\mappingdatastructures\mappingdatastructures\source.cpp(12): warning C4101: 'harrison': unreferenced local variable
+c:\users\id140\source\repos\mappingdatastructures\mappingdatastructures\source.cpp(12): warning C4101: 'bryant': unreferenced local variable
+c:\users\id140\source\repos\mappingdatastructures\mappingdatastructures\source.cpp(12): warning C4101: 'hotSprings': unreferenced local variable
+c:\users\id140\source\repos\mappingdatastructures\mappingdatastructures\source.cpp(12): warning C4101: 'morrilton': unreferenced local variable
+c:\users\id140\source\repos\mappingdatastructures\mappingdatastructures\source.cpp(12): warning C4101: 'conway': unreferenced local variable
+c:\users\id140\source\repos\mappingdatastructures\mappingdatastructures\source.cpp(12): warning C4101: 'littleRock': unreferenced local variable
+c:\users\id140\source\repos\mappingdatastructures\mappingdatastructures\source.cpp(12): warning C4101: 'benton': unreferenced local variable
+c:\users\id140\source\repos\mappingdatastructures\mappingdatastructures\source.cpp(12): warning C4101: 'cabot': unreferenced local variable
+c:\users\id140\source\repos\mappingdatastructures\mappingdatastructures\source.cpp(12): warning C4101: 'jacksonville': unreferenced local variable
+  MappingDataStructures.vcxproj -> C:\Users\ID140\source\repos\MappingDataStructures\Debug\MappingDataStructures.exe
